@@ -1,0 +1,32 @@
+PODS:
+  - Batch (1.5.4)
+  - FSCalendar (2.1.1)
+  - GoogleAPIClient/Calendar (1.0.4):
+    - GoogleAPIClient/Core
+    - GTMSessionFetcher (~> 1.1)
+  - GoogleAPIClient/Core (1.0.4):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMOAuth2 (1.1.1):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.1.4):
+    - GTMSessionFetcher/Full (= 1.1.4)
+  - GTMSessionFetcher/Core (1.1.4)
+  - GTMSessionFetcher/Full (1.1.4):
+    - GTMSessionFetcher/Core (= 1.1.4)
+
+DEPENDENCIES:
+  - Batch (~> 1.5)
+  - FSCalendar (~> 2.1)
+  - GoogleAPIClient/Calendar (~> 1.0.2)
+  - GTMOAuth2 (~> 1.1.0)
+
+SPEC CHECKSUMS:
+  Batch: 13083f81837fe1da9ea84b0533a2965c73ff74c6
+  FSCalendar: 04dc531f06fbde8a8e5b7394e9d4edebd45a591f
+  GoogleAPIClient: 4dedb6af613eb7d171814c343f8a82ee5411e13b
+  GTMOAuth2: bdb12f3e0d2110bfe585f6151230b883beb4d042
+  GTMSessionFetcher: 174bc61d5238f81f9ddb807b0b0170420f67de85
+
+PODFILE CHECKSUM: 7d77c8da6375ee139f4e320aae2a7441635ecc25
+
+COCOAPODS: 1.0.1
