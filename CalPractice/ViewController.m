@@ -20,7 +20,7 @@
 @implementation ViewController
 
 static NSString *const kKeychainItemName = @"Google Calendar API";
-static NSString *const kClientID = @"26599551029-e2tumvhljd0n9bjbcn9frh3i9vte8isc.apps.googleusercontent.com";
+static NSString *const kClientID = @"CLIENT_ID";
 
 - (void)viewDidLoad {
     
